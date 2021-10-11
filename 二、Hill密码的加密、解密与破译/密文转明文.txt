@@ -1,0 +1,4370 @@
+>> new_decrypt("VIKYNOTCLKYRJQETIRECVUZLNOJTUYDIMHRCFITQ")
+
+A =
+
+     0    18
+     0    23
+
+
+A =
+
+     0    18
+     1     0
+
+
+A =
+
+     0    18
+     2     3
+
+
+A =
+
+     0    18
+     3     6
+
+
+A =
+
+     0    18
+     4     9
+
+
+A =
+
+     0    18
+     5    12
+
+
+A =
+
+     0    18
+     6    15
+
+
+A =
+
+     0    18
+     7    18
+
+
+A =
+
+     0    18
+     8    21
+
+
+A =
+
+     0    18
+     9    24
+
+
+A =
+
+     0    18
+    10     1
+
+
+A =
+
+     0    18
+    11     4
+
+
+A =
+
+     0    18
+    12     7
+
+
+A =
+
+     0    18
+    13    10
+
+
+A =
+
+     0    18
+    14    13
+
+
+A =
+
+     0    18
+    15    16
+
+
+A =
+
+     0    18
+    16    19
+
+
+A =
+
+     0    18
+    17    22
+
+
+A =
+
+     0    18
+    18    25
+
+
+A =
+
+     0    18
+    19     2
+
+
+A =
+
+     0    18
+    20     5
+
+
+A =
+
+     0    18
+    21     8
+
+
+A =
+
+     0    18
+    22    11
+
+
+A =
+
+     0    18
+    23    14
+
+
+A =
+
+     0    18
+    24    17
+
+
+A =
+
+     0    18
+    25    20
+
+
+A =
+
+     1    21
+     0    23
+
+GWDIOUOYKEUTYCOBETZYMSFVOUTBNIOWQFMYQWIC
+
+A =
+
+     1    21
+     1     0
+
+IMYHOUCGKERIQQTCRGCJUELROUTBYFIAHYCWIKQO
+
+A =
+
+     1    21
+     2     3
+
+
+A =
+
+     1    21
+     3     6
+
+AASLOUYAKEDAWMZYRGQROINHOUTBGRGKRAQEOGKS
+
+A =
+
+     1    21
+     4     9
+
+CQNKOUMIKEAPOAEZETTCWUTDOUTBROAOITGCGUSE
+
+A =
+
+     1    21
+     5    12
+
+UEUBOUICKEZUUWXIRGUXQYVTOUTBMNYYFIUKMQMI
+
+A =
+
+     1    21
+     6    15
+
+QYRQOUGMKESDKUATETBOAAJBOUTBDGKQKJOOCOWK
+
+A =
+
+     1    21
+     7    18
+
+YKKZOUKSKETYEYHKRGATGWHLOUTBIHMGNUAGWSCG
+
+A =
+
+     1    21
+     8    21
+
+MSBSOUEWKEYZASQRETVSKCXJOUTBHMWICXISSMGM
+
+A =
+
+     1    21
+     9    24
+
+WUCNOUWKKEJWMKPWRGKVYKBPOUTBKXSCJOKIEEUU
+
+A =
+
+     1    21
+    10     1
+
+KCTGOUQOKEOXIEYDETFUCQRNOUTBJCCEYRSUAYYA
+
+A =
+
+     1    21
+    11     4
+
+SOMPOUUUKEPSCIFURGEZIMPXOUTBODEUBCEMUCEW
+
+A =
+
+     1    21
+    12     7
+
+OIJEOUSEKEIBSGIFETLQSODFOUTBFWQMGDYQKAOY
+
+A =
+
+     1    21
+    13    10
+
+GWQVOUOYKEHGYCBORGMLMSFVOUTBAVOWDSMYQWIC
+
+A =
+
+     1    21
+    14    13
+
+IMLUOUCGKEEVQQGPETPWUELROUTBLSIAULCWIKQO
+
+A =
+
+     1    21
+    15    16
+
+
+A =
+
+     1    21
+    16    19
+
+AAFYOUYAKEQNWMMLETDEOINHOUTBTEGKENQEOGKS
+
+A =
+
+     1    21
+    17    22
+
+CQAXOUMIKENCOARMRGGPWUTDOUTBEBAOVGGCGUSE
+
+A =
+
+     1    21
+    18    25
+
+UEHOOUICKEMHUWKVETHKQYVTOUTBZAYYSVUKMQMI
+
+A =
+
+     1    21
+    19     2
+
+QYEDOUGMKEFQKUNGRGOBAAJBOUTBQTKQXWOOCOWK
+
+A =
+
+     1    21
+    20     5
+
+YKXMOUKSKEGLEYUXETNGGWHLOUTBVUMGAHAGWSCG
+
+A =
+
+     1    21
+    21     8
+
+MSOFOUEWKELMASDERGIFKCXJOUTBUZWIPKISSMGM
+
+A =
+
+     1    21
+    22    11
+
+WUPAOUWKKEWJMKCJETXIYKBPOUTBXKSCWBKIEEUU
+
+A =
+
+     1    21
+    23    14
+
+KCGTOUQOKEBKIELQRGSHCQRNOUTBWPCELESUAYYA
+
+A =
+
+     1    21
+    24    17
+
+SOZCOUUUKECFCISHETRMIMPXOUTBBQEUOPEMUCEW
+
+A =
+
+     1    21
+    25    20
+
+OIWROUSEKEVOSGVSRGYDSODFOUTBSJQMTQYQKAOY
+
+A =
+
+     2    24
+     0    23
+
+
+A =
+
+     2    24
+     1     0
+
+
+A =
+
+     2    24
+     2     3
+
+
+A =
+
+     2    24
+     3     6
+
+
+A =
+
+     2    24
+     4     9
+
+
+A =
+
+     2    24
+     5    12
+
+
+A =
+
+     2    24
+     6    15
+
+
+A =
+
+     2    24
+     7    18
+
+
+A =
+
+     2    24
+     8    21
+
+
+A =
+
+     2    24
+     9    24
+
+
+A =
+
+     2    24
+    10     1
+
+
+A =
+
+     2    24
+    11     4
+
+
+A =
+
+     2    24
+    12     7
+
+
+A =
+
+     2    24
+    13    10
+
+
+A =
+
+     2    24
+    14    13
+
+
+A =
+
+     2    24
+    15    16
+
+
+A =
+
+     2    24
+    16    19
+
+
+A =
+
+     2    24
+    17    22
+
+
+A =
+
+     2    24
+    18    25
+
+
+A =
+
+     2    24
+    19     2
+
+
+A =
+
+     2    24
+    20     5
+
+
+A =
+
+     2    24
+    21     8
+
+
+A =
+
+     2    24
+    22    11
+
+
+A =
+
+     2    24
+    23    14
+
+
+A =
+
+     2    24
+    24    17
+
+
+A =
+
+     2    24
+    25    20
+
+
+A =
+
+     3     1
+     0    23
+
+QWRIOUGYKESTKCABETBYASJVOUTBDIKWKFOYCWWC
+
+A =
+
+     3     1
+     1     0
+
+IUYNOUCKKERWQKTWRGCVUKLPOUTBYXICHOCIIEQU
+
+A =
+
+     3     1
+     2     3
+
+WEPOOUWCKEWHMWCVETXKYYBTOUTBXASYWVKKEQUI
+
+A =
+
+     3     1
+     3     6
+
+CMAHOUMGKENIOQRCRGGJWETROUTBEFAAVYGWGKSO
+
+A =
+
+     3     1
+     4     9
+
+OCJGOUSOKEIXSEIDETLUSQDNOUTBFCQEGRYUKYOA
+
+A =
+
+     3     1
+     5    12
+
+YYKDOUKMKETQEUHGRGABGAHBOUTBITMQNWAOWOCK
+
+A =
+
+     3     1
+     6    15
+
+
+A =
+
+     3     1
+     7    18
+
+KOGPOUQUKEBSIILURGSZCMRXOUTBWDCULCSMACYW
+
+A =
+
+     3     1
+     8    21
+
+UKHMOUISKEMLUYKXETHGQWVLOUTBZUYGSHUGMSMG
+
+A =
+
+     3     1
+     9    24
+
+GAQLOUOAKEHAYMBYRGMRMIFHOUTBAROKDAMEQGIS
+
+A =
+
+     3     1
+    10     1
+
+MIBEOUEEKEYBAGQFETVQKOXFOUTBHWWMCDIQSAGY
+
+A =
+
+     3     1
+    11     4
+
+ASSFOUYWKEDMWSZERGQFOCNJOUTBGZGIRKQSOMKM
+
+A =
+
+     3     1
+    12     7
+
+SQZKOUUIKECPCASZETRCIUPDOUTBBOEOOTECUUEE
+
+A =
+
+     3     1
+    13    10
+
+QWEVOUGYKEFGKCNORGOLASJVOUTBQVKWXSOYCWWC
+
+A =
+
+     3     1
+    14    13
+
+IULAOUCKKEEJQKGJETPIUKLPOUTBLKICUBCIIEQU
+
+A =
+
+     3     1
+    15    16
+
+WECBOUWCKEJUMWPIRGKXYYBTOUTBKNSYJIKKEQUI
+
+A =
+
+     3     1
+    16    19
+
+CMNUOUMGKEAVOQEPETTWWETROUTBRSAAILGWGKSO
+
+A =
+
+     3     1
+    17    22
+
+OCWTOUSOKEVKSEVQRGYHSQDNOUTBSPQETEYUKYOA
+
+A =
+
+     3     1
+    18    25
+
+YYXQOUKMKEGDEUUTETNOGAHBOUTBVGMQAJAOWOCK
+
+A =
+
+     3     1
+    19     2
+
+
+A =
+
+     3     1
+    20     5
+
+KOTCOUQUKEOFIIYHETFMCMRXOUTBJQCUYPSMACYW
+
+A =
+
+     3     1
+    21     8
+
+UKUZOUISKEZYUYXKRGUTQWVLOUTBMHYGFUUGMSMG
+
+A =
+
+     3     1
+    22    11
+
+GADYOUOAKEUNYMOLETZEMIFHOUTBNEOKQNMEQGIS
+
+A =
+
+     3     1
+    23    14
+
+MIOROUEEKELOAGDSRGIDKOXFOUTBUJWMPQIQSAGY
+
+A =
+
+     3     1
+    24    17
+
+ASFSOUYWKEQZWSMRETDSOCNJOUTBTMGIEXQSOMKM
+
+A =
+
+     3     1
+    25    20
+
+SQMXOUUIKEPCCAFMRGEPIUPDOUTBOBEOBGECUUEE
+
+A =
+
+     4     4
+     0    23
+
+
+A =
+
+     4     4
+     1     0
+
+
+A =
+
+     4     4
+     2     3
+
+
+A =
+
+     4     4
+     3     6
+
+
+A =
+
+     4     4
+     4     9
+
+
+A =
+
+     4     4
+     5    12
+
+
+A =
+
+     4     4
+     6    15
+
+
+A =
+
+     4     4
+     7    18
+
+
+A =
+
+     4     4
+     8    21
+
+
+A =
+
+     4     4
+     9    24
+
+
+A =
+
+     4     4
+    10     1
+
+
+A =
+
+     4     4
+    11     4
+
+
+A =
+
+     4     4
+    12     7
+
+
+A =
+
+     4     4
+    13    10
+
+
+A =
+
+     4     4
+    14    13
+
+
+A =
+
+     4     4
+    15    16
+
+
+A =
+
+     4     4
+    16    19
+
+
+A =
+
+     4     4
+    17    22
+
+
+A =
+
+     4     4
+    18    25
+
+
+A =
+
+     4     4
+    19     2
+
+
+A =
+
+     4     4
+    20     5
+
+
+A =
+
+     4     4
+    21     8
+
+
+A =
+
+     4     4
+    22    11
+
+
+A =
+
+     4     4
+    23    14
+
+
+A =
+
+     4     4
+    24    17
+
+
+A =
+
+     4     4
+    25    20
+
+
+A =
+
+     5     7
+     0    23
+
+SWZIOUUYKECTCCSBETRYISPVOUTBBIEWOFEYUWEC
+
+A =
+
+     5     7
+     1     0
+
+ISYFOUCWKERMQSTERGCFUCLJOUTBYZIIHKCSIMQM
+
+A =
+
+     5     7
+     2     3
+
+CANYOUMAKEANOMELETTEWITHOUTBREAKINGEGGSS
+
+A =
+
+     5     7
+     3     6
+
+YOKPOUKUKETSEIHURGAZGMHXOUTBIDMUNCAMWCCW
+
+A =
+
+     5     7
+     4     9
+
+KYTQOUQMKEODIUYTETFOCARBOUTBJGCQYJSOAOYK
+
+A =
+
+     5     7
+     5    12
+
+GMQHOUOGKEHIYQBCRGMJMEFROUTBAFOADYMWQKIO
+
+A =
+
+     5     7
+     6    15
+
+AUFAOUYKKEQJWKMJETDIOKNPOUTBTKGCEBQIOEKU
+
+A =
+
+     5     7
+     7    18
+
+QQEXOUGIKEFCKANMRGOPAUJDOUTBQBKOXGOCCUWE
+
+A =
+
+     5     7
+     8    21
+
+WIPEOUWEKEWBMGCFETXQYOBFOUTBXWSMWDKQEAUY
+
+A =
+
+     5     7
+     9    24
+
+OKWZOUSSKEVYSYVKRGYTSWDLOUTBSHQGTUYGKSOG
+
+A =
+
+     5     7
+    10     1
+
+
+A =
+
+     5     7
+    11     4
+
+UCUTOUIOKEZKUEXQRGUHQQVNOUTBMPYEFEUUMYMA
+
+A =
+
+     5     7
+    12     7
+
+MEBOOUECKEYHAWQVETVKKYXTOUTBHAWYCVIKSQGI
+
+A =
+
+     5     7
+    13    10
+
+SWMVOUUYKEPGCCFORGELISPVOUTBOVEWBSEYUWEC
+
+A =
+
+     5     7
+    14    13
+
+ISLSOUCWKEEZQSGRETPSUCLJOUTBLMIIUXCSIMQM
+
+A =
+
+     5     7
+    15    16
+
+CAALOUMAKENAOMRYRGGRWITHOUTBERAKVAGEGGSS
+
+A =
+
+     5     7
+    16    19
+
+YOXCOUKUKEGFEIUHETNMGMHXOUTBVQMUAPAMWCCW
+
+A =
+
+     5     7
+    17    22
+
+KYGDOUQMKEBQIULGRGSBCARBOUTBWTCQLWSOAOYK
+
+A =
+
+     5     7
+    18    25
+
+GMDUOUOGKEUVYQOPETZWMEFROUTBNSOAQLMWQKIO
+
+A =
+
+     5     7
+    19     2
+
+AUSNOUYKKEDWWKZWRGQVOKNPOUTBGXGCROQIOEKU
+
+A =
+
+     5     7
+    20     5
+
+QQRKOUGIKESPKAAZETBCAUJDOUTBDOKOKTOCCUWE
+
+A =
+
+     5     7
+    21     8
+
+WICROUWEKEJOMGPSRGKDYOBFOUTBKJSMJQKQEAUY
+
+A =
+
+     5     7
+    22    11
+
+OKJMOUSSKEILSYIXETLGSWDLOUTBFUQGGHYGKSOG
+
+A =
+
+     5     7
+    23    14
+
+
+A =
+
+     5     7
+    24    17
+
+UCHGOUIOKEMXUEKDETHUQQVNOUTBZCYESRUUMYMA
+
+A =
+
+     5     7
+    25    20
+
+MEOBOUECKELUAWDIRGIXKYXTOUTBUNWYPIIKSQGI
+
+A =
+
+     6    10
+     0    23
+
+
+A =
+
+     6    10
+     1     0
+
+
+A =
+
+     6    10
+     2     3
+
+
+A =
+
+     6    10
+     3     6
+
+
+A =
+
+     6    10
+     4     9
+
+
+A =
+
+     6    10
+     5    12
+
+
+A =
+
+     6    10
+     6    15
+
+
+A =
+
+     6    10
+     7    18
+
+
+A =
+
+     6    10
+     8    21
+
+
+A =
+
+     6    10
+     9    24
+
+
+A =
+
+     6    10
+    10     1
+
+
+A =
+
+     6    10
+    11     4
+
+
+A =
+
+     6    10
+    12     7
+
+
+A =
+
+     6    10
+    13    10
+
+
+A =
+
+     6    10
+    14    13
+
+
+A =
+
+     6    10
+    15    16
+
+
+A =
+
+     6    10
+    16    19
+
+
+A =
+
+     6    10
+    17    22
+
+
+A =
+
+     6    10
+    18    25
+
+
+A =
+
+     6    10
+    19     2
+
+
+A =
+
+     6    10
+    20     5
+
+
+A =
+
+     6    10
+    21     8
+
+
+A =
+
+     6    10
+    22    11
+
+
+A =
+
+     6    10
+    23    14
+
+
+A =
+
+     6    10
+    24    17
+
+
+A =
+
+     6    10
+    25    20
+
+
+A =
+
+     7    13
+     0    23
+
+EWVIOUAYKEKTGCWBETJYESZVOUTBPIUWMFWYYWAC
+
+A =
+
+     7    13
+     1     0
+
+
+A =
+
+     7    13
+     2     3
+
+EQVKOUAIKEKPGAWZETJCEUZDOUTBPOUOMTWCYUAE
+
+A =
+
+     7    13
+     3     6
+
+EYIDOUAMKEXQGUJGRGWBEAZBOUTBCTUQZWWOYOAK
+
+A =
+
+     7    13
+     4     9
+
+ESVSOUAWKEKZGSWRETJSECZJOUTBPMUIMXWSYMAM
+
+A =
+
+     7    13
+     5    12
+
+ECITOUAOKEXKGEJQRGWHEQZNOUTBCPUEZEWUYYAA
+
+A =
+
+     7    13
+     6    15
+
+EIVEOUAEKEKBGGWFETJQEOZFOUTBPWUMMDWQYAAY
+
+A =
+
+     7    13
+     7    18
+
+EMIHOUAGKEXIGQJCRGWJEEZROUTBCFUAZYWWYKAO
+
+A =
+
+     7    13
+     8    21
+
+EAVYOUAAKEKNGMWLETJEEIZHOUTBPEUKMNWEYGAS
+
+A =
+
+     7    13
+     9    24
+
+EEIBOUACKEXUGWJIRGWXEYZTOUTBCNUYZIWKYQAI
+
+A =
+
+     7    13
+    10     1
+
+EKVMOUASKEKLGYWXETJGEWZLOUTBPUUGMHWGYSAG
+
+A =
+
+     7    13
+    11     4
+
+EUINOUAKKEXWGKJWRGWVEKZPOUTBCXUCZOWIYEAU
+
+A =
+
+     7    13
+    12     7
+
+EOVCOUAUKEKFGIWHETJMEMZXOUTBPQUUMPWMYCAW
+
+A =
+
+     7    13
+    13    10
+
+EWIVOUAYKEXGGCJORGWLESZVOUTBCVUWZSWYYWAC
+
+A =
+
+     7    13
+    14    13
+
+
+A =
+
+     7    13
+    15    16
+
+EQIXOUAIKEXCGAJMRGWPEUZDOUTBCBUOZGWCYUAE
+
+A =
+
+     7    13
+    16    19
+
+EYVQOUAMKEKDGUWTETJOEAZBOUTBPGUQMJWOYOAK
+
+A =
+
+     7    13
+    17    22
+
+ESIFOUAWKEXMGSJERGWFECZJOUTBCZUIZKWSYMAM
+
+A =
+
+     7    13
+    18    25
+
+ECVGOUAOKEKXGEWDETJUEQZNOUTBPCUEMRWUYYAA
+
+A =
+
+     7    13
+    19     2
+
+EIIROUAEKEXOGGJSRGWDEOZFOUTBCJUMZQWQYAAY
+
+A =
+
+     7    13
+    20     5
+
+EMVUOUAGKEKVGQWPETJWEEZROUTBPSUAMLWWYKAO
+
+A =
+
+     7    13
+    21     8
+
+EAILOUAAKEXAGMJYRGWREIZHOUTBCRUKZAWEYGAS
+
+A =
+
+     7    13
+    22    11
+
+EEVOOUACKEKHGWWVETJKEYZTOUTBPAUYMVWKYQAI
+
+A =
+
+     7    13
+    23    14
+
+EKIZOUASKEXYGYJKRGWTEWZLOUTBCHUGZUWGYSAG
+
+A =
+
+     7    13
+    24    17
+
+EUVAOUAKKEKJGKWJETJIEKZPOUTBPKUCMBWIYEAU
+
+A =
+
+     7    13
+    25    20
+
+EOIPOUAUKEXSGIJURGWZEMZXOUTBCDUUZCWMYCAW
+
+A =
+
+     8    16
+     0    23
+
+
+A =
+
+     8    16
+     1     0
+
+
+A =
+
+     8    16
+     2     3
+
+
+A =
+
+     8    16
+     3     6
+
+
+A =
+
+     8    16
+     4     9
+
+
+A =
+
+     8    16
+     5    12
+
+
+A =
+
+     8    16
+     6    15
+
+
+A =
+
+     8    16
+     7    18
+
+
+A =
+
+     8    16
+     8    21
+
+
+A =
+
+     8    16
+     9    24
+
+
+A =
+
+     8    16
+    10     1
+
+
+A =
+
+     8    16
+    11     4
+
+
+A =
+
+     8    16
+    12     7
+
+
+A =
+
+     8    16
+    13    10
+
+
+A =
+
+     8    16
+    14    13
+
+
+A =
+
+     8    16
+    15    16
+
+
+A =
+
+     8    16
+    16    19
+
+
+A =
+
+     8    16
+    17    22
+
+
+A =
+
+     8    16
+    18    25
+
+
+A =
+
+     8    16
+    19     2
+
+
+A =
+
+     8    16
+    20     5
+
+
+A =
+
+     8    16
+    21     8
+
+
+A =
+
+     8    16
+    22    11
+
+
+A =
+
+     8    16
+    23    14
+
+
+A =
+
+     8    16
+    24    17
+
+
+A =
+
+     8    16
+    25    20
+
+
+A =
+
+     9    19
+     0    23
+
+CWNIOUMYKEATOCEBETTYWSTVOUTBRIAWIFGYGWSC
+
+A =
+
+     9    19
+     1     0
+
+IAYLOUCAKERAQMTYRGCRUILHOUTBYRIKHACEIGQS
+
+A =
+
+     9    19
+     2     3
+
+SYZQOUUMKECDCUSTETROIAPBOUTBBGEQOJEOUOEK
+
+A =
+
+     9    19
+     3     6
+
+MUONOUEKKELWAKDWRGIVKKXPOUTBUXWCPOIISEGU
+
+A =
+
+     9    19
+     4     9
+
+UIHEOUIEKEMBUGKFETHQQOVFOUTBZWYMSDUQMAMY
+
+A =
+
+     9    19
+     5    12
+
+
+A =
+
+     9    19
+     6    15
+
+OEJOOUSCKEIHSWIVETLKSYDTOUTBFAQYGVYKKQOI
+
+A =
+
+     9    19
+     7    18
+
+WSCFOUWWKEJMMSPERGKFYCBJOUTBKZSIJKKSEMUM
+
+A =
+
+     9    19
+     8    21
+
+QORCOUGUKESFKIAHETBMAMJXOUTBDQKUKPOMCCWW
+
+A =
+
+     9    19
+     9    24
+
+AMSHOUYGKEDIWQZCRGQJOENROUTBGFGARYQWOKKO
+
+A =
+
+     9    19
+    10     1
+
+GQDKOUOIKEUPYAOZETZCMUFDOUTBNOOOQTMCQUIE
+
+A =
+
+     9    19
+    11     4
+
+KKGZOUQSKEBYIYLKRGSTCWRLOUTBWHCGLUSGASYG
+
+A =
+
+     9    19
+    12     7
+
+YCXGOUKOKEGXEEUDETNUGQHNOUTBVCMEARAUWYCA
+
+A =
+
+     9    19
+    13    10
+
+CWAVOUMYKENGOCRORGGLWSTVOUTBEVAWVSGYGWSC
+
+A =
+
+     9    19
+    14    13
+
+IALYOUCAKEENQMGLETPEUILHOUTBLEIKUNCEIGQS
+
+A =
+
+     9    19
+    15    16
+
+SYMDOUUMKEPQCUFGRGEBIAPBOUTBOTEQBWEOUOEK
+
+A =
+
+     9    19
+    16    19
+
+MUBAOUEKKEYJAKQJETVIKKXPOUTBHKWCCBIISEGU
+
+A =
+
+     9    19
+    17    22
+
+UIUROUIEKEZOUGXSRGUDQOVFOUTBMJYMFQUQMAMY
+
+A =
+
+     9    19
+    18    25
+
+
+A =
+
+     9    19
+    19     2
+
+OEWBOUSCKEVUSWVIRGYXSYDTOUTBSNQYTIYKKQOI
+
+A =
+
+     9    19
+    20     5
+
+WSPSOUWWKEWZMSCRETXSYCBJOUTBXMSIWXKSEMUM
+
+A =
+
+     9    19
+    21     8
+
+QOEPOUGUKEFSKINURGOZAMJXOUTBQDKUXCOMCCWW
+
+A =
+
+     9    19
+    22    11
+
+AMFUOUYGKEQVWQMPETDWOENROUTBTSGAELQWOKKO
+
+A =
+
+     9    19
+    23    14
+
+GQQXOUOIKEHCYABMRGMPMUFDOUTBABOODGMCQUIE
+
+A =
+
+     9    19
+    24    17
+
+KKTMOUQSKEOLIYYXETFGCWRLOUTBJUCGYHSGASYG
+
+A =
+
+     9    19
+    25    20
+
+YCKTOUKOKETKEEHQRGAHGQHNOUTBIPMENEAUWYCA
+
+A =
+
+    10    22
+     0    23
+
+
+A =
+
+    10    22
+     1     0
+
+
+A =
+
+    10    22
+     2     3
+
+
+A =
+
+    10    22
+     3     6
+
+
+A =
+
+    10    22
+     4     9
+
+
+A =
+
+    10    22
+     5    12
+
+
+A =
+
+    10    22
+     6    15
+
+
+A =
+
+    10    22
+     7    18
+
+
+A =
+
+    10    22
+     8    21
+
+
+A =
+
+    10    22
+     9    24
+
+
+A =
+
+    10    22
+    10     1
+
+
+A =
+
+    10    22
+    11     4
+
+
+A =
+
+    10    22
+    12     7
+
+
+A =
+
+    10    22
+    13    10
+
+
+A =
+
+    10    22
+    14    13
+
+
+A =
+
+    10    22
+    15    16
+
+
+A =
+
+    10    22
+    16    19
+
+
+A =
+
+    10    22
+    17    22
+
+
+A =
+
+    10    22
+    18    25
+
+
+A =
+
+    10    22
+    19     2
+
+
+A =
+
+    10    22
+    20     5
+
+
+A =
+
+    10    22
+    21     8
+
+
+A =
+
+    10    22
+    22    11
+
+
+A =
+
+    10    22
+    23    14
+
+
+A =
+
+    10    22
+    24    17
+
+
+A =
+
+    10    22
+    25    20
+
+
+A =
+
+    11    25
+     0    23
+
+WWPIOUWYKEWTMCCBETXYYSBVOUTBXISWWFKYEWUC
+
+A =
+
+    11    25
+     1     0
+
+IYYDOUCMKERQQUTGRGCBUALBOUTBYTIQHWCOIOQK
+
+A =
+
+    11    25
+     2     3
+
+QIREOUGEKESBKGAFETBQAOJFOUTBDWKMKDOQCAWY
+
+A =
+
+    11    25
+     3     6
+
+SEMBOUUCKEPUCWFIRGEXIYPTOUTBONEYBIEKUQEI
+
+A =
+
+    11    25
+     4     9
+
+AOFCOUYUKEQFWIMHETDMOMNXOUTBTQGUEPQMOCKW
+
+A =
+
+    11    25
+     5    12
+
+MQOXOUEIKELCAADMRGIPKUXDOUTBUBWOPGICSUGE
+
+A =
+
+    11    25
+     6    15
+
+GCDGOUOOKEUXYEODETZUMQFNOUTBNCOEQRMUQYIA
+
+A =
+
+    11    25
+     7    18
+
+UAULOUIAKEZAUMXYRGURQIVHOUTBMRYKFAUEMGMS
+
+A =
+
+    11    25
+     8    21
+
+KUTAOUQKKEOJIKYJETFICKRPOUTBJKCCYBSIAEYU
+
+A =
+
+    11    25
+     9    24
+
+
+A =
+
+    11    25
+    10     1
+
+YSXSOUKWKEGZESURETNSGCHJOUTBVMMIAXASWMCM
+
+A =
+
+    11    25
+    11     4
+
+OMWHOUSGKEVISQVCRGYJSEDROUTBSFQATYYWKKOO
+
+A =
+
+    11    25
+    12     7
+
+CKNMOUMSKEALOYEXETTGWWTLOUTBRUAGIHGGGSSG
+
+A =
+
+    11    25
+    13    10
+
+WWCVOUWYKEJGMCPORGKLYSBVOUTBKVSWJSKYEWUC
+
+A =
+
+    11    25
+    14    13
+
+IYLQOUCMKEEDQUGTETPOUALBOUTBLGIQUJCOIOQK
+
+A =
+
+    11    25
+    15    16
+
+QIEROUGEKEFOKGNSRGODAOJFOUTBQJKMXQOQCAWY
+
+A =
+
+    11    25
+    16    19
+
+SEZOOUUCKECHCWSVETRKIYPTOUTBBAEYOVEKUQEI
+
+A =
+
+    11    25
+    17    22
+
+AOSPOUYUKEDSWIZURGQZOMNXOUTBGDGURCQMOCKW
+
+A =
+
+    11    25
+    18    25
+
+MQBKOUEIKEYPAAQZETVCKUXDOUTBHOWOCTICSUGE
+
+A =
+
+    11    25
+    19     2
+
+GCQTOUOOKEHKYEBQRGMHMQFNOUTBAPOEDEMUQYIA
+
+A =
+
+    11    25
+    20     5
+
+UAHYOUIAKEMNUMKLETHEQIVHOUTBZEYKSNUEMGMS
+
+A =
+
+    11    25
+    21     8
+
+KUGNOUQKKEBWIKLWRGSVCKRPOUTBWXCCLOSIAEYU
+
+A =
+
+    11    25
+    22    11
+
+
+A =
+
+    11    25
+    23    14
+
+YSKFOUKWKETMESHERGAFGCHJOUTBIZMINKASWMCM
+
+A =
+
+    11    25
+    24    17
+
+OMJUOUSGKEIVSQIPETLWSEDROUTBFSQAGLYWKKOO
+
+A =
+
+    11    25
+    25    20
+
+CKAZOUMSKENYOYRKRGGTWWTLOUTBEHAGVUGGGSSG
+
+A =
+
+    12     2
+     0    23
+
+
+A =
+
+    12     2
+     1     0
+
+
+A =
+
+    12     2
+     2     3
+
+
+A =
+
+    12     2
+     3     6
+
+
+A =
+
+    12     2
+     4     9
+
+
+A =
+
+    12     2
+     5    12
+
+
+A =
+
+    12     2
+     6    15
+
+
+A =
+
+    12     2
+     7    18
+
+
+A =
+
+    12     2
+     8    21
+
+
+A =
+
+    12     2
+     9    24
+
+
+A =
+
+    12     2
+    10     1
+
+
+A =
+
+    12     2
+    11     4
+
+
+A =
+
+    12     2
+    12     7
+
+
+A =
+
+    12     2
+    13    10
+
+
+A =
+
+    12     2
+    14    13
+
+
+A =
+
+    12     2
+    15    16
+
+
+A =
+
+    12     2
+    16    19
+
+
+A =
+
+    12     2
+    17    22
+
+
+A =
+
+    12     2
+    18    25
+
+
+A =
+
+    12     2
+    19     2
+
+
+A =
+
+    12     2
+    20     5
+
+
+A =
+
+    12     2
+    21     8
+
+
+A =
+
+    12     2
+    22    11
+
+
+A =
+
+    12     2
+    23    14
+
+
+A =
+
+    12     2
+    24    17
+
+
+A =
+
+    12     2
+    25    20
+
+
+A =
+
+    13     5
+     0    23
+
+
+A =
+
+    13     5
+     1     0
+
+IGYJOUCQKEREQOTARGCNUGLZOUTBYLISHMCAIIQQ
+
+A =
+
+    13     5
+     2     3
+
+GGDWOUOQKEURYOONETZAMGFZOUTBNYOSQZMAQIIQ
+
+A =
+
+    13     5
+     3     6
+
+OGWJOUSQKEVESOVARGYNSGDZOUTBSLQSTMYAKIOQ
+
+A =
+
+    13     5
+     4     9
+
+SGZWOUUQKECRCOSNETRAIGPZOUTBBYESOZEAUIEQ
+
+A =
+
+    13     5
+     5    12
+
+KGGJOUQQKEBEIOLARGSNCGRZOUTBWLCSLMSAAIYQ
+
+A =
+
+    13     5
+     6    15
+
+WGPWOUWQKEWRMOCNETXAYGBZOUTBXYSSWZKAEIUQ
+
+A =
+
+    13     5
+     7    18
+
+MGOJOUEQKELEAODARGINKGXZOUTBULWSPMIASIGQ
+
+A =
+
+    13     5
+     8    21
+
+YGXWOUKQKEGREOUNETNAGGHZOUTBVYMSAZAAWICQ
+
+A =
+
+    13     5
+     9    24
+
+QGEJOUGQKEFEKONARGONAGJZOUTBQLKSXMOACIWQ
+
+A =
+
+    13     5
+    10     1
+
+UGHWOUIQKEMRUOKNETHAQGVZOUTBZYYSSZUAMIMQ
+
+A =
+
+    13     5
+    11     4
+
+CGAJOUMQKENEOORARGGNWGTZOUTBELASVMGAGISQ
+
+A =
+
+    13     5
+    12     7
+
+AGFWOUYQKEQRWOMNETDAOGNZOUTBTYGSEZQAOIKQ
+
+A =
+
+    13     5
+    13    10
+
+
+A =
+
+    13     5
+    14    13
+
+IGLWOUCQKEERQOGNETPAUGLZOUTBLYISUZCAIIQQ
+
+A =
+
+    13     5
+    15    16
+
+GGQJOUOQKEHEYOBARGMNMGFZOUTBALOSDMMAQIIQ
+
+A =
+
+    13     5
+    16    19
+
+OGJWOUSQKEIRSOINETLASGDZOUTBFYQSGZYAKIOQ
+
+A =
+
+    13     5
+    17    22
+
+SGMJOUUQKEPECOFARGENIGPZOUTBOLESBMEAUIEQ
+
+A =
+
+    13     5
+    18    25
+
+KGTWOUQQKEORIOYNETFACGRZOUTBJYCSYZSAAIYQ
+
+A =
+
+    13     5
+    19     2
+
+WGCJOUWQKEJEMOPARGKNYGBZOUTBKLSSJMKAEIUQ
+
+A =
+
+    13     5
+    20     5
+
+MGBWOUEQKEYRAOQNETVAKGXZOUTBHYWSCZIASIGQ
+
+A =
+
+    13     5
+    21     8
+
+YGKJOUKQKETEEOHARGANGGHZOUTBILMSNMAAWICQ
+
+A =
+
+    13     5
+    22    11
+
+QGRWOUGQKESRKOANETBAAGJZOUTBDYKSKZOACIWQ
+
+A =
+
+    13     5
+    23    14
+
+UGUJOUIQKEZEUOXARGUNQGVZOUTBMLYSFMUAMIMQ
+
+A =
+
+    13     5
+    24    17
+
+CGNWOUMQKEAROOENETTAWGTZOUTBRYASIZGAGISQ
+
+A =
+
+    13     5
+    25    20
+
+AGSJOUYQKEDEWOZARGQNOGNZOUTBGLGSRMQAOIKQ
+
+A =
+
+    14     8
+     0    23
+
+
+A =
+
+    14     8
+     1     0
+
+
+A =
+
+    14     8
+     2     3
+
+
+A =
+
+    14     8
+     3     6
+
+
+A =
+
+    14     8
+     4     9
+
+
+A =
+
+    14     8
+     5    12
+
+
+A =
+
+    14     8
+     6    15
+
+
+A =
+
+    14     8
+     7    18
+
+
+A =
+
+    14     8
+     8    21
+
+
+A =
+
+    14     8
+     9    24
+
+
+A =
+
+    14     8
+    10     1
+
+
+A =
+
+    14     8
+    11     4
+
+
+A =
+
+    14     8
+    12     7
+
+
+A =
+
+    14     8
+    13    10
+
+
+A =
+
+    14     8
+    14    13
+
+
+A =
+
+    14     8
+    15    16
+
+
+A =
+
+    14     8
+    16    19
+
+
+A =
+
+    14     8
+    17    22
+
+
+A =
+
+    14     8
+    18    25
+
+
+A =
+
+    14     8
+    19     2
+
+
+A =
+
+    14     8
+    20     5
+
+
+A =
+
+    14     8
+    21     8
+
+
+A =
+
+    14     8
+    22    11
+
+
+A =
+
+    14     8
+    23    14
+
+
+A =
+
+    14     8
+    24    17
+
+
+A =
+
+    14     8
+    25    20
+
+
+A =
+
+    15    11
+     0    23
+
+UWHIOUIYKEMTUCKBETHYQSVVOUTBZIYWSFUYMWMC
+
+A =
+
+    15    11
+     1     0
+
+IKYZOUCSKERYQYTKRGCTUWLLOUTBYHIGHUCGISQG
+
+A =
+
+    15    11
+     2     3
+
+KMTUOUQGKEOVIQYPETFWCERROUTBJSCAYLSWAKYO
+
+A =
+
+    15    11
+     3     6
+
+QSEFOUGWKEFMKSNERGOFACJJOUTBQZKIXKOSCMWM
+
+A =
+
+    15    11
+     4     9
+
+
+A =
+
+    15    11
+     5    12
+
+SUMNOUUKKEPWCKFWRGEVIKPPOUTBOXECBOEIUEEU
+
+A =
+
+    15    11
+     6    15
+
+YAXYOUKAKEGNEMULETNEGIHHOUTBVEMKANAEWGCS
+
+A =
+
+    15    11
+     7    18
+
+ACSTOUYOKEDKWEZQRGQHOQNNOUTBGPGEREQUOYKA
+
+A =
+
+    15    11
+     8    21
+
+OQJKOUSIKEIPSAIZETLCSUDDOUTBFOQOGTYCKUOE
+
+A =
+
+    15    11
+     9    24
+
+MOOPOUEUKELSAIDURGIZKMXXOUTBUDWUPCIMSCGW
+
+A =
+
+    15    11
+    10     1
+
+CENOOUMCKEAHOWEVETTKWYTTOUTBRAAYIVGKGQSI
+
+A =
+
+    15    11
+    11     4
+
+GIQROUOEKEHOYGBSRGMDMOFFOUTBAJOMDQMQQAIY
+
+A =
+
+    15    11
+    12     7
+
+WYPQOUWMKEWDMUCTETXOYABBOUTBXGSQWJKOEOUK
+
+A =
+
+    15    11
+    13    10
+
+UWUVOUIYKEZGUCXORGULQSVVOUTBMVYWFSUYMWMC
+
+A =
+
+    15    11
+    14    13
+
+IKLMOUCSKEELQYGXETPGUWLLOUTBLUIGUHCGISQG
+
+A =
+
+    15    11
+    15    16
+
+KMGHOUQGKEBIIQLCRGSJCERROUTBWFCALYSWAKYO
+
+A =
+
+    15    11
+    16    19
+
+QSRSOUGWKESZKSARETBSACJJOUTBDMKIKXOSCMWM
+
+A =
+
+    15    11
+    17    22
+
+
+A =
+
+    15    11
+    18    25
+
+SUZAOUUKKECJCKSJETRIIKPPOUTBBKECOBEIUEEU
+
+A =
+
+    15    11
+    19     2
+
+YAKLOUKAKETAEMHYRGARGIHHOUTBIRMKNAAEWGCS
+
+A =
+
+    15    11
+    20     5
+
+ACFGOUYOKEQXWEMDETDUOQNNOUTBTCGEERQUOYKA
+
+A =
+
+    15    11
+    21     8
+
+OQWXOUSIKEVCSAVMRGYPSUDDOUTBSBQOTGYCKUOE
+
+A =
+
+    15    11
+    22    11
+
+MOBCOUEUKEYFAIQHETVMKMXXOUTBHQWUCPIMSCGW
+
+A =
+
+    15    11
+    23    14
+
+CEABOUMCKENUOWRIRGGXWYTTOUTBENAYVIGKGQSI
+
+A =
+
+    15    11
+    24    17
+
+GIDEOUOEKEUBYGOFETZQMOFFOUTBNWOMQDMQQAIY
+
+A =
+
+    15    11
+    25    20
+
+WYCDOUWMKEJQMUPGRGKBYABBOUTBKTSQJWKOEOUK
+
+A =
+
+    16    14
+     0    23
+
+
+A =
+
+    16    14
+     1     0
+
+
+A =
+
+    16    14
+     2     3
+
+
+A =
+
+    16    14
+     3     6
+
+
+A =
+
+    16    14
+     4     9
+
+
+A =
+
+    16    14
+     5    12
+
+
+A =
+
+    16    14
+     6    15
+
+
+A =
+
+    16    14
+     7    18
+
+
+A =
+
+    16    14
+     8    21
+
+
+A =
+
+    16    14
+     9    24
+
+
+A =
+
+    16    14
+    10     1
+
+
+A =
+
+    16    14
+    11     4
+
+
+A =
+
+    16    14
+    12     7
+
+
+A =
+
+    16    14
+    13    10
+
+
+A =
+
+    16    14
+    14    13
+
+
+A =
+
+    16    14
+    15    16
+
+
+A =
+
+    16    14
+    16    19
+
+
+A =
+
+    16    14
+    17    22
+
+
+A =
+
+    16    14
+    18    25
+
+
+A =
+
+    16    14
+    19     2
+
+
+A =
+
+    16    14
+    20     5
+
+
+A =
+
+    16    14
+    21     8
+
+
+A =
+
+    16    14
+    22    11
+
+
+A =
+
+    16    14
+    23    14
+
+
+A =
+
+    16    14
+    24    17
+
+
+A =
+
+    16    14
+    25    20
+
+
+A =
+
+    17    17
+     0    23
+
+OWJIOUSYKEITSCIBETLYSSDVOUTBFIQWGFYYKWOC
+
+A =
+
+    17    17
+     1     0
+
+ICYTOUCOKERKQETQRGCHUQLNOUTBYPIEHECUIYQA
+
+A =
+
+    17    17
+     2     3
+
+AKFMOUYSKEQLWYMXETDGOWNLOUTBTUGGEHQGOSKG
+
+A =
+
+    17    17
+     3     6
+
+UQUXOUIIKEZCUAXMRGUPQUVDOUTBMBYOFGUCMUME
+
+A =
+
+    17    17
+     4     9
+
+YMXUOUKGKEGVEQUPETNWGEHROUTBVSMAALAWWKCO
+
+A =
+
+    17    17
+     5    12
+
+WOCPOUWUKEJSMIPURGKZYMBXOUTBKDSUJCKMECUW
+
+A =
+
+    17    17
+     6    15
+
+SSZSOUUWKECZCSSRETRSICPJOUTBBMEIOXESUMEM
+
+A =
+
+    17    17
+     7    18
+
+GEQBOUOCKEHUYWBIRGMXMYFTOUTBANOYDIMKQQII
+
+A =
+
+    17    17
+     8    21
+
+
+A =
+
+    17    17
+     9    24
+
+CIAROUMEKENOOGRSRGGDWOTFOUTBEJAMVQGQGASY
+
+A =
+
+    17    17
+    10     1
+
+QURAOUGKKESJKKAJETBIAKJPOUTBDKKCKBOICEWU
+
+A =
+
+    17    17
+    11     4
+
+MYODOUEMKELQAUDGRGIBKAXBOUTBUTWQPWIOSOGK
+
+A =
+
+    17    17
+    12     7
+
+KATYOUQAKEONIMYLETFECIRHOUTBJECKYNSEAGYS
+
+A =
+
+    17    17
+    13    10
+
+OWWVOUSYKEVGSCVORGYLSSDVOUTBSVQWTSYYKWOC
+
+A =
+
+    17    17
+    14    13
+
+ICLGOUCOKEEXQEGDETPUUQLNOUTBLCIEURCUIYQA
+
+A =
+
+    17    17
+    15    16
+
+AKSZOUYSKEDYWYZKRGQTOWNLOUTBGHGGRUQGOSKG
+
+A =
+
+    17    17
+    16    19
+
+UQHKOUIIKEMPUAKZETHCQUVDOUTBZOYOSTUCMUME
+
+A =
+
+    17    17
+    17    22
+
+YMKHOUKGKETIEQHCRGAJGEHROUTBIFMANYAWWKCO
+
+A =
+
+    17    17
+    18    25
+
+WOPCOUWUKEWFMICHETXMYMBXOUTBXQSUWPKMECUW
+
+A =
+
+    17    17
+    19     2
+
+SSMFOUUWKEPMCSFERGEFICPJOUTBOZEIBKESUMEM
+
+A =
+
+    17    17
+    20     5
+
+GEDOOUOCKEUHYWOVETZKMYFTOUTBNAOYQVMKQQII
+
+A =
+
+    17    17
+    21     8
+
+
+A =
+
+    17    17
+    22    11
+
+CINEOUMEKEABOGEFETTQWOTFOUTBRWAMIDGQGASY
+
+A =
+
+    17    17
+    23    14
+
+QUENOUGKKEFWKKNWRGOVAKJPOUTBQXKCXOOICEWU
+
+A =
+
+    17    17
+    24    17
+
+MYBQOUEMKEYDAUQTETVOKAXBOUTBHGWQCJIOSOGK
+
+A =
+
+    17    17
+    25    20
+
+KAGLOUQAKEBAIMLYRGSRCIRHOUTBWRCKLASEAGYS
+
+A =
+
+    18    20
+     0    23
+
+
+A =
+
+    18    20
+     1     0
+
+
+A =
+
+    18    20
+     2     3
+
+
+A =
+
+    18    20
+     3     6
+
+
+A =
+
+    18    20
+     4     9
+
+
+A =
+
+    18    20
+     5    12
+
+
+A =
+
+    18    20
+     6    15
+
+
+A =
+
+    18    20
+     7    18
+
+
+A =
+
+    18    20
+     8    21
+
+
+A =
+
+    18    20
+     9    24
+
+
+A =
+
+    18    20
+    10     1
+
+
+A =
+
+    18    20
+    11     4
+
+
+A =
+
+    18    20
+    12     7
+
+
+A =
+
+    18    20
+    13    10
+
+
+A =
+
+    18    20
+    14    13
+
+
+A =
+
+    18    20
+    15    16
+
+
+A =
+
+    18    20
+    16    19
+
+
+A =
+
+    18    20
+    17    22
+
+
+A =
+
+    18    20
+    18    25
+
+
+A =
+
+    18    20
+    19     2
+
+
+A =
+
+    18    20
+    20     5
+
+
+A =
+
+    18    20
+    21     8
+
+
+A =
+
+    18    20
+    22    11
+
+
+A =
+
+    18    20
+    23    14
+
+
+A =
+
+    18    20
+    24    17
+
+
+A =
+
+    18    20
+    25    20
+
+
+A =
+
+    19    23
+     0    23
+
+MWBIOUEYKEYTACQBETVYKSXVOUTBHIWWCFIYSWGC
+
+A =
+
+    19    23
+     1     0
+
+IOYPOUCUKERSQITURGCZUMLXOUTBYDIUHCCMICQW
+
+A =
+
+    19    23
+     2     3
+
+YUXAOUKKKEGJEKUJETNIGKHPOUTBVKMCABAIWECU
+
+A =
+
+    19    23
+     3     6
+
+GKQZOUOSKEHYYYBKRGMTMWFLOUTBAHOGDUMGQSIG
+
+A =
+
+    19    23
+     4     9
+
+QEROOUGCKESHKWAVETBKAYJTOUTBDAKYKVOKCQWI
+
+A =
+
+    19    23
+     5    12
+
+OAWLOUSAKEVASMVYRGYRSIDHOUTBSRQKTAYEKGOS
+
+A =
+
+    19    23
+     6    15
+
+UMHUOUIGKEMVUQKPETHWQEVROUTBZSYASLUWMKMO
+
+A =
+
+    19    23
+     7    18
+
+SIMROUUEKEPOCGFSRGEDIOPFOUTBOJEMBQEQUAEY
+
+A =
+
+    19    23
+     8    21
+
+CCNGOUMOKEAXOEEDETTUWQTNOUTBRCAEIRGUGYSA
+
+A =
+
+    19    23
+     9    24
+
+KSGFOUQWKEBMISLERGSFCCRJOUTBWZCILKSSAMYM
+
+A =
+
+    19    23
+    10     1
+
+AYFQOUYMKEQDWUMTETDOOANBOUTBTGGQEJQOOOKK
+
+A =
+
+    19    23
+    11     4
+
+WQCXOUWIKEJCMAPMRGKPYUBDOUTBKBSOJGKCEUUE
+
+A =
+
+    19    23
+    12     7
+
+
+A =
+
+    19    23
+    13    10
+
+MWOVOUEYKELGACDORGILKSXVOUTBUVWWPSIYSWGC
+
+A =
+
+    19    23
+    14    13
+
+IOLCOUCUKEEFQIGHETPMUMLXOUTBLQIUUPCMICQW
+
+A =
+
+    19    23
+    15    16
+
+YUKNOUKKKETWEKHWRGAVGKHPOUTBIXMCNOAIWECU
+
+A =
+
+    19    23
+    16    19
+
+GKDMOUOSKEULYYOXETZGMWFLOUTBNUOGQHMGQSIG
+
+A =
+
+    19    23
+    17    22
+
+QEEBOUGCKEFUKWNIRGOXAYJTOUTBQNKYXIOKCQWI
+
+A =
+
+    19    23
+    18    25
+
+OAJYOUSAKEINSMILETLESIDHOUTBFEQKGNYEKGOS
+
+A =
+
+    19    23
+    19     2
+
+UMUHOUIGKEZIUQXCRGUJQEVROUTBMFYAFYUWMKMO
+
+A =
+
+    19    23
+    20     5
+
+SIZEOUUEKECBCGSFETRQIOPFOUTBBWEMODEQUAEY
+
+A =
+
+    19    23
+    21     8
+
+CCATOUMOKENKOERQRGGHWQTNOUTBEPAEVEGUGYSA
+
+A =
+
+    19    23
+    22    11
+
+KSTSOUQWKEOZISYRETFSCCRJOUTBJMCIYXSSAMYM
+
+A =
+
+    19    23
+    23    14
+
+AYSDOUYMKEDQWUZGRGQBOANBOUTBGTGQRWQOOOKK
+
+A =
+
+    19    23
+    24    17
+
+WQPKOUWIKEWPMACZETXCYUBDOUTBXOSOWTKCEUUE
+
+A =
+
+    19    23
+    25    20
+
+
+A =
+
+    20     0
+     0    23
+
+
+A =
+
+    20     0
+     1     0
+
+
+A =
+
+    20     0
+     2     3
+
+
+A =
+
+    20     0
+     3     6
+
+
+A =
+
+    20     0
+     4     9
+
+
+A =
+
+    20     0
+     5    12
+
+
+A =
+
+    20     0
+     6    15
+
+
+A =
+
+    20     0
+     7    18
+
+
+A =
+
+    20     0
+     8    21
+
+
+A =
+
+    20     0
+     9    24
+
+
+A =
+
+    20     0
+    10     1
+
+
+A =
+
+    20     0
+    11     4
+
+
+A =
+
+    20     0
+    12     7
+
+
+A =
+
+    20     0
+    13    10
+
+
+A =
+
+    20     0
+    14    13
+
+
+A =
+
+    20     0
+    15    16
+
+
+A =
+
+    20     0
+    16    19
+
+
+A =
+
+    20     0
+    17    22
+
+
+A =
+
+    20     0
+    18    25
+
+
+A =
+
+    20     0
+    19     2
+
+
+A =
+
+    20     0
+    20     5
+
+
+A =
+
+    20     0
+    21     8
+
+
+A =
+
+    20     0
+    22    11
+
+
+A =
+
+    20     0
+    23    14
+
+
+A =
+
+    20     0
+    24    17
+
+
+A =
+
+    20     0
+    25    20
+
+
+A =
+
+    21     3
+     0    23
+
+YWXIOUKYKEGTECUBETNYGSHVOUTBVIMWAFAYWWCC
+
+A =
+
+    21     3
+     1     0
+
+IEYBOUCCKERUQWTIRGCXUYLTOUTBYNIYHICKIQQI
+
+A =
+
+    21     3
+     2     3
+
+MCBGOUEOKEYXAEQDETVUKQXNOUTBHCWECRIUSYGA
+
+A =
+
+    21     3
+     3     6
+
+
+A =
+
+    21     3
+     4     9
+
+WKPMOUWSKEWLMYCXETXGYWBLOUTBXUSGWHKGESUG
+
+A =
+
+    21     3
+     5    12
+
+AISROUYEKEDOWGZSRGQDOONFOUTBGJGMRQQQOAKY
+
+A =
+
+    21     3
+     6    15
+
+KQTKOUQIKEOPIAYZETFCCURDOUTBJOCOYTSCAUYE
+
+A =
+
+    21     3
+     7    18
+
+CUANOUMKKENWOKRWRGGVWKTPOUTBEXACVOGIGESU
+
+A =
+
+    21     3
+     8    21
+
+SMZUOUUGKECVCQSPETRWIEPROUTBBSEAOLEWUKEO
+
+A =
+
+    21     3
+     9    24
+
+UYUDOUIMKEZQUUXGRGUBQAVBOUTBMTYQFWUOMOMK
+
+A =
+
+    21     3
+    10     1
+
+OOJCOUSUKEIFSIIHETLMSMDXOUTBFQQUGPYMKCOW
+
+A =
+
+    21     3
+    11     4
+
+QAELOUGAKEFAKMNYRGORAIJHOUTBQRKKXAOECGWS
+
+A =
+
+    21     3
+    12     7
+
+GSDSOUOWKEUZYSORETZSMCFJOUTBNMOIQXMSQMIM
+
+A =
+
+    21     3
+    13    10
+
+YWKVOUKYKETGECHORGALGSHVOUTBIVMWNSAYWWCC
+
+A =
+
+    21     3
+    14    13
+
+IELOOUCCKEEHQWGVETPKUYLTOUTBLAIYUVCKIQQI
+
+A =
+
+    21     3
+    15    16
+
+MCOTOUEOKELKAEDQRGIHKQXNOUTBUPWEPEIUSYGA
+
+A =
+
+    21     3
+    16    19
+
+
+A =
+
+    21     3
+    17    22
+
+WKCZOUWSKEJYMYPKRGKTYWBLOUTBKHSGJUKGESUG
+
+A =
+
+    21     3
+    18    25
+
+AIFEOUYEKEQBWGMFETDQOONFOUTBTWGMEDQQOAKY
+
+A =
+
+    21     3
+    19     2
+
+KQGXOUQIKEBCIALMRGSPCURDOUTBWBCOLGSCAUYE
+
+A =
+
+    21     3
+    20     5
+
+CUNAOUMKKEAJOKEJETTIWKTPOUTBRKACIBGIGESU
+
+A =
+
+    21     3
+    21     8
+
+SMMHOUUGKEPICQFCRGEJIEPROUTBOFEABYEWUKEO
+
+A =
+
+    21     3
+    22    11
+
+UYHQOUIMKEMDUUKTETHOQAVBOUTBZGYQSJUOMOMK
+
+A =
+
+    21     3
+    23    14
+
+OOWPOUSUKEVSSIVURGYZSMDXOUTBSDQUTCYMKCOW
+
+A =
+
+    21     3
+    24    17
+
+QARYOUGAKESNKMALETBEAIJHOUTBDEKKKNOECGWS
+
+A =
+
+    21     3
+    25    20
+
+GSQFOUOWKEHMYSBERGMFMCFJOUTBAZOIDKMSQMIM
+
+A =
+
+    22     6
+     0    23
+
+
+A =
+
+    22     6
+     1     0
+
+
+A =
+
+    22     6
+     2     3
+
+
+A =
+
+    22     6
+     3     6
+
+
+A =
+
+    22     6
+     4     9
+
+
+A =
+
+    22     6
+     5    12
+
+
+A =
+
+    22     6
+     6    15
+
+
+A =
+
+    22     6
+     7    18
+
+
+A =
+
+    22     6
+     8    21
+
+
+A =
+
+    22     6
+     9    24
+
+
+A =
+
+    22     6
+    10     1
+
+
+A =
+
+    22     6
+    11     4
+
+
+A =
+
+    22     6
+    12     7
+
+
+A =
+
+    22     6
+    13    10
+
+
+A =
+
+    22     6
+    14    13
+
+
+A =
+
+    22     6
+    15    16
+
+
+A =
+
+    22     6
+    16    19
+
+
+A =
+
+    22     6
+    17    22
+
+
+A =
+
+    22     6
+    18    25
+
+
+A =
+
+    22     6
+    19     2
+
+
+A =
+
+    22     6
+    20     5
+
+
+A =
+
+    22     6
+    21     8
+
+
+A =
+
+    22     6
+    22    11
+
+
+A =
+
+    22     6
+    23    14
+
+
+A =
+
+    22     6
+    24    17
+
+
+A =
+
+    22     6
+    25    20
+
+
+A =
+
+    23     9
+     0    23
+
+AWFIOUYYKEQTWCMBETDYOSNVOUTBTIGWEFQYOWKC
+
+A =
+
+    23     9
+     1     0
+
+IQYXOUCIKERCQATMRGCPUULDOUTBYBIOHGCCIUQE
+
+A =
+
+    23     9
+     2     3
+
+OSJSOUSWKEIZSSIRETLSSCDJOUTBFMQIGXYSKMOM
+
+A =
+
+    23     9
+     3     6
+
+KIGROUQEKEBOIGLSRGSDCORFOUTBWJCMLQSQAAYY
+
+A =
+
+    23     9
+     4     9
+
+MABYOUEAKEYNAMQLETVEKIXHOUTBHEWKCNIESGGS
+
+A =
+
+    23     9
+     5    12
+
+QKEZOUGSKEFYKYNKRGOTAWJLOUTBQHKGXUOGCSWG
+
+A =
+
+    23     9
+     6    15
+
+CONCOUMUKEAFOIEHETTMWMTXOUTBRQAUIPGMGCSW
+
+A =
+
+    23     9
+     7    18
+
+
+A =
+
+    23     9
+     8    21
+
+GYDQOUOMKEUDYUOTETZOMAFBOUTBNGOQQJMOQOIK
+
+A =
+
+    23     9
+     9    24
+
+SCMTOUUOKEPKCEFQRGEHIQPNOUTBOPEEBEEUUYEA
+
+A =
+
+    23     9
+    10     1
+
+WMPUOUWGKEWVMQCPETXWYEBROUTBXSSAWLKWEKUO
+
+A =
+
+    23     9
+    11     4
+
+YEKBOUKCKETUEWHIRGAXGYHTOUTBINMYNIAKWQCI
+
+A =
+
+    23     9
+    12     7
+
+UUHAOUIKKEMJUKKJETHIQKVPOUTBZKYCSBUIMEMU
+
+A =
+
+    23     9
+    13    10
+
+AWSVOUYYKEDGWCZORGQLOSNVOUTBGVGWRSQYOWKC
+
+A =
+
+    23     9
+    14    13
+
+IQLKOUCIKEEPQAGZETPCUULDOUTBLOIOUTCCIUQE
+
+A =
+
+    23     9
+    15    16
+
+OSWFOUSWKEVMSSVERGYFSCDJOUTBSZQITKYSKMOM
+
+A =
+
+    23     9
+    16    19
+
+KITEOUQEKEOBIGYFETFQCORFOUTBJWCMYDSQAAYY
+
+A =
+
+    23     9
+    17    22
+
+MAOLOUEAKELAAMDYRGIRKIXHOUTBURWKPAIESGGS
+
+A =
+
+    23     9
+    18    25
+
+QKRMOUGSKESLKYAXETBGAWJLOUTBDUKGKHOGCSWG
+
+A =
+
+    23     9
+    19     2
+
+COAPOUMUKENSOIRURGGZWMTXOUTBEDAUVCGMGCSW
+
+A =
+
+    23     9
+    20     5
+
+
+A =
+
+    23     9
+    21     8
+
+GYQDOUOMKEHQYUBGRGMBMAFBOUTBATOQDWMOQOIK
+
+A =
+
+    23     9
+    22    11
+
+SCZGOUUOKECXCESDETRUIQPNOUTBBCEEOREUUYEA
+
+A =
+
+    23     9
+    23    14
+
+WMCHOUWGKEJIMQPCRGKJYEBROUTBKFSAJYKWEKUO
+
+A =
+
+    23     9
+    24    17
+
+YEXOOUKCKEGHEWUVETNKGYHTOUTBVAMYAVAKWQCI
+
+A =
+
+    23     9
+    25    20
+
+UUUNOUIKKEZWUKXWRGUVQKVPOUTBMXYCFOUIMEMU
+
+A =
+
+    24    12
+     0    23
+
+
+A =
+
+    24    12
+     1     0
+
+
+A =
+
+    24    12
+     2     3
+
+
+A =
+
+    24    12
+     3     6
+
+
+A =
+
+    24    12
+     4     9
+
+
+A =
+
+    24    12
+     5    12
+
+
+A =
+
+    24    12
+     6    15
+
+
+A =
+
+    24    12
+     7    18
+
+
+A =
+
+    24    12
+     8    21
+
+
+A =
+
+    24    12
+     9    24
+
+
+A =
+
+    24    12
+    10     1
+
+
+A =
+
+    24    12
+    11     4
+
+
+A =
+
+    24    12
+    12     7
+
+
+A =
+
+    24    12
+    13    10
+
+
+A =
+
+    24    12
+    14    13
+
+
+A =
+
+    24    12
+    15    16
+
+
+A =
+
+    24    12
+    16    19
+
+
+A =
+
+    24    12
+    17    22
+
+
+A =
+
+    24    12
+    18    25
+
+
+A =
+
+    24    12
+    19     2
+
+
+A =
+
+    24    12
+    20     5
+
+
+A =
+
+    24    12
+    21     8
+
+
+A =
+
+    24    12
+    22    11
+
+
+A =
+
+    24    12
+    23    14
+
+
+A =
+
+    24    12
+    24    17
+
+
+A =
+
+    24    12
+    25    20
+
+
+A =
+
+    25    15
+     0    23
+
+KWTIOUQYKEOTICYBETFYCSRVOUTBJICWYFSYAWYC
+
+A =
+
+    25    15
+     1     0
+
+IIYROUCEKEROQGTSRGCDUOLFOUTBYJIMHQCQIAQY
+
+A =
+
+    25    15
+     2     3
+
+UOHCOUIUKEMFUIKHETHMQMVXOUTBZQYUSPUMMCMW
+
+A =
+
+    25    15
+     3     6
+
+WCCTOUWOKEJKMEPQRGKHYQBNOUTBKPSEJEKUEYUA
+
+A =
+
+    25    15
+     4     9
+
+GUDAOUOKKEUJYKOJETZIMKFPOUTBNKOCQBMIQEIU
+
+A =
+
+    25    15
+     5    12
+
+CSAFOUMWKENMOSRERGGFWCTJOUTBEZAIVKGSGMSM
+
+A =
+
+    25    15
+     6    15
+
+MKBMOUESKEYLAYQXETVGKWXLOUTBHUWGCHIGSSGG
+
+A =
+
+    25    15
+     7    18
+
+OYWDOUSMKEVQSUVGRGYBSADBOUTBSTQQTWYOKOOK
+
+A =
+
+    25    15
+     8    21
+
+AEFOOUYCKEQHWWMVETDKOYNTOUTBTAGYEVQKOQKI
+
+A =
+
+    25    15
+     9    24
+
+YQKXOUKIKETCEAHMRGAPGUHDOUTBIBMONGACWUCE
+
+A =
+
+    25    15
+    10     1
+
+SAZYOUUAKECNCMSLETREIIPHOUTBBEEKONEEUGES
+
+A =
+
+    25    15
+    11     4
+
+
+A =
+
+    25    15
+    12     7
+
+QMRUOUGGKESVKQAPETBWAEJROUTBDSKAKLOWCKWO
+
+A =
+
+    25    15
+    13    10
+
+KWGVOUQYKEBGICLORGSLCSRVOUTBWVCWLSSYAWYC
+
+A =
+
+    25    15
+    14    13
+
+IILEOUCEKEEBQGGFETPQUOLFOUTBLWIMUDCQIAQY
+
+A =
+
+    25    15
+    15    16
+
+UOUPOUIUKEZSUIXURGUZQMVXOUTBMDYUFCUMMCMW
+
+A =
+
+    25    15
+    16    19
+
+WCPGOUWOKEWXMECDETXUYQBNOUTBXCSEWRKUEYUA
+
+A =
+
+    25    15
+    17    22
+
+GUQNOUOKKEHWYKBWRGMVMKFPOUTBAXOCDOMIQEIU
+
+A =
+
+    25    15
+    18    25
+
+CSNSOUMWKEAZOSERETTSWCTJOUTBRMAIIXGSGMSM
+
+A =
+
+    25    15
+    19     2
+
+MKOZOUESKELYAYDKRGITKWXLOUTBUHWGPUIGSSGG
+
+A =
+
+    25    15
+    20     5
+
+OYJQOUSMKEIDSUITETLOSADBOUTBFGQQGJYOKOOK
+
+A =
+
+    25    15
+    21     8
+
+AESBOUYCKEDUWWZIRGQXOYNTOUTBGNGYRIQKOQKI
+
+A =
+
+    25    15
+    22    11
+
+YQXKOUKIKEGPEAUZETNCGUHDOUTBVOMOATACWUCE
+
+A =
+
+    25    15
+    23    14
+
+SAMLOUUAKEPACMFYRGERIIPHOUTBOREKBAEEUGES
+
+A =
+
+    25    15
+    24    17
+
+
+A =
+
+    25    15
+    25    20
+
+QMEHOUGGKEFIKQNCRGOJAEJROUTBQFKAXYOWCKWO
+>> 

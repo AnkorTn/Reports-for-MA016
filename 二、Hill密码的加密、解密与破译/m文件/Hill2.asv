@@ -1,0 +1,6 @@
+function Hill2()
+    alpha = [19,7;7,4];
+    beta =  [17,13,7,8];
+    deta = det(alpha)
+    inva = deta.*inv(alpha);
+    A = inva*beta
