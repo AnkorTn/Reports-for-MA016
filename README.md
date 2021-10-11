@@ -6,7 +6,7 @@ The last update time: 2021/10/11 10:20
 
 ### Lab 1
 
-Calculate $\pi$ in different ways.
+Calculate π in different ways.
 
 ### Lab 2
 
